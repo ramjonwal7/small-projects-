@@ -1,4 +1,4 @@
 # small-projects-
 Author : Ram Jonwal
 
-These are the projects that I made during learning of C or C++ language.
+These are the projects that I made during learning of C and C++ language.
